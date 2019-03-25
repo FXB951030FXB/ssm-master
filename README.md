@@ -1,2 +1,2 @@
 # ssm-master
-ssm框架搭建
+ssm框架搭建的一个简单实例。
